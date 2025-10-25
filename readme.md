@@ -146,13 +146,6 @@ Replace audio files in `assets/audio/`:
 
 ## 📝 License
 
-WTFPL
-
-## 🙏 Credits
-
-Original template by [Shizu-ka](https://github.com/Shizu-ka/Birthday-Website)
-Modified and enhanced by Claude Code for Basit's Birthday 🎉
-
 ---
 
 **Made with ❤️ for someone special**
