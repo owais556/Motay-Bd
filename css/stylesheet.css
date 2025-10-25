@@ -1132,15 +1132,15 @@ audio {
 	bottom: -200px;
 	opacity: 0.6;
 	z-index: 99;
-	width: 100px;
-	height: 183px;
+	width: 85px;
+	height: 155px;
 	background-repeat: no-repeat no-repeat;
-	background-size: 100px 183px;
+	background-size: 85px 155px;
 }
 .balloons h2 {
 	text-transform: uppercase;
 	font-family: 'Signika', sans-serif;
-	font-size: 50px;
+	font-size: 42px;
 	color: #BF4136;
 	text-shadow: 5px 5px 5px #FFF;
 	display: none;
@@ -1448,13 +1448,13 @@ audio {
 
     /* Balloons - smaller but same behavior */
     .balloons {
-        width: 70px;
-        height: 128px;
-        background-size: 70px 128px;
+        width: 60px;
+        height: 109px;
+        background-size: 60px 109px;
     }
 
     .balloons h2 {
-        font-size: 35px;
+        font-size: 30px;
     }
 
     /* Message - readable but smaller */
@@ -1501,13 +1501,13 @@ audio {
     }
 
     .balloons {
-        width: 80px;
-        height: 146px;
-        background-size: 80px 146px;
+        width: 65px;
+        height: 118px;
+        background-size: 65px 118px;
     }
 
     .balloons h2 {
-        font-size: 38px;
+        font-size: 32px;
     }
 
     .message p {
